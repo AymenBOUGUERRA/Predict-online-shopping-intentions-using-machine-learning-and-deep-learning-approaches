@@ -20,6 +20,6 @@ of knowledge and experience puts it at a disadvantage.
 
 
 Our score was decent in the context of a machine learning problem, 
-and even if it intuitively look like it has almost the same odds of random chance, 
+and even if it intuitively look like it has almost the same odds of a statistical model, 
 90% model acc vs 85% if we just answer no every time, the use of stratified data and the comparison 
 with the dummy model and the AUC score of 0.9 clearly shows that our model is better than luck.
