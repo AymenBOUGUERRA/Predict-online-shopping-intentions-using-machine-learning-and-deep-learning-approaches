@@ -1,5 +1,5 @@
 While looking at the dataset, we can clearly see that it is heavily biased and also require cleaning; 
-•	Big disproportionality in the classes (85% of shoppers do not proceed with a purshase)
+•	Big disproportionality in the classes (about 80% of shoppers do not proceed with a purshase)
 •	2 Missing months in months 
 •	Useless data like browser and operating system (one could argue that these
  informations could be relevant for example giving us an idea of the wealth/buying capacity 
