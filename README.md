@@ -1,6 +1,6 @@
 While looking at the dataset, we can clearly see that it is heavily biased and also require cleaning; 
 
-•	Big disproportionality in the classes (about 80% of shoppers do not proceed with a purshase)
+•	Big disproportionality in the classes (84.5 % of shoppers do not proceed with a purshase)
 
 •	2 Missing months in months 
 
